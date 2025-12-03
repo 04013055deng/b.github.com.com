@@ -1,1 +1,1 @@
-# b.github.com.com
+# github.com
